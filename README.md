@@ -14,7 +14,7 @@
 
  O JDBC permite você gerenciar uma conecxão com o banco e dar comandos SQL (INSERT, UPDATE, DELETE) e fechar a conexão após o uso.
 
- #
+ 
 
 
 
@@ -24,4 +24,7 @@
 # Fontes para a pesquisa sobre DAO
 https://medium.com/@felipe.damasceno.b/padr%C3%B5es-de-projeto-e-o-data-access-object-dao-7d7e4818866c
 https://pt.stackoverflow.com/questions/113840/como-funciona-o-padr%C3%A3o-dao
+
+# JDBC
+https://medium.com/@gtbarbosa/java-jdbc-hibernate-e-spring-data-jpa-jpa-hibernate-e-jdbc-falando-sobre-java-e-acesso-a-849c8855905e
 
