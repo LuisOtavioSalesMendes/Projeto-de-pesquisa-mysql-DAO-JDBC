@@ -8,8 +8,9 @@
 
 
 
-## Fontes de pesquisa
-## pesquisa sobre DAO
+# Fontes de pesquisa
+
+# Fontes para a pesquisa sobre DAO
 https://medium.com/@felipe.damasceno.b/padr%C3%B5es-de-projeto-e-o-data-access-object-dao-7d7e4818866c
 https://pt.stackoverflow.com/questions/113840/como-funciona-o-padr%C3%A3o-dao
 
