@@ -17,9 +17,13 @@
 
 # MVC (Model-View-Controller)
 
- O MVC ou (Modelo-Visão-Controle), se trata de um metodo de organização de dados extremamente eficiente, ele separa a programação em 3 camadas, model é a camada acima do banco de dados, nesse caso o model é onde fica a conexão com o banco de dados e onde os comandos queries(Consultas SQL) são efetuadoss, além disso no model também é onde se faz a verificação dos dados antes deles serem salvos no sistema.
- 
-  O View é onde fica a interface ou UI(User interface), ele lê os dados do model e os exibe para o usuário, no view é onde vai ficar os componentes que o usuário vai ver na tela, como por exemplo caixas de texto ou elementos quais o usuário vai interagir
+MVC (Model-View-Controller), ou Modelo-Visão-Controle, é um padrão de arquitetura de software amplamente utilizado para organizar o código de uma aplicação em três camadas.
+
+O Model é a camada responsável pelos dados da aplicação. É nele que fica a conexão com o banco de dados, onde as queries (consultas SQL) são executadas e onde os dados são validados antes de serem salvos no sistema.
+
+A View é a camada de interface (UI — User Interface). É ela que exibe as informações ao usuário, contendo os componentes visuais com os quais ele interage, como caixas de texto, botões e listas. A View recebe os dados do Controller e os apresenta na tela.
+
+O Controller atua como intermediário entre o Model e a View. Ele recebe os comandos do usuário, aciona o Model para buscar ou atualizar os dados necessários e seleciona a View mais adequada para exibir o resultado atualizado.
 
 
 
